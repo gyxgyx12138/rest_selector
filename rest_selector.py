@@ -1,6 +1,4 @@
 import random
-### 1
-
 def select_rest_option():
     rest_options = [
         "晒太阳",
