@@ -1,6 +1,7 @@
 import random
 def select_rest_option():
     rest_options = [
+        "打飞机",
         "晒太阳",
         "收缩盆底肌",
         "听听音乐",
