@@ -1,6 +1,7 @@
 import random
 def select_rest_option():
     rest_options = [
+        "喝饮料",
         "喝酒",
         "打飞机",
         "晒太阳",
